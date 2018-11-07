@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello, github");
         System.out.println("Bla bla bla");
         int n = 1;
+        System.out.println(n);
     }
 }
